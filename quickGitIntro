@@ -1,0 +1,16 @@
+Copy repository:
+
+git clone <repository adress>
+
+add files to repo:
+
+git add -A
+
+make sure files really gets added:
+git commit -m "Commit message"
+
+push everything to repo:
+git push origin
+
+get files from repo:
+git pull
